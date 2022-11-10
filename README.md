@@ -10,7 +10,7 @@ Step 3 : In  bit68_task/settings line 83 enter  database password
 
 Steps 4 :  Create database by running in a SQL file  command => CREATE DATABASE bit68_database;
 
-Step 5:  Run comment ‘python manage.py migrate’   in the project directory 
+Step 5:  Run command  ‘python manage.py migrate’   in the project directory 
 
 Step 6 : python manage.py createsuperuser  and type your username, email, and password. 
 
