@@ -30,7 +30,7 @@ Step 6 : python manage.py createsuperuser  and type your username, email, and pa
 -After creating products you can access the products created in the database from   ‘http://127.0.0.1:8000/api/products'
 
 	
-- Also there is an endpoint to search on a specific product from example : http://127.0.0.1:8000/api/products/jeans’
+- Also there is an endpoint to search on a specific product from example : http://127.0.0.1:8000/api/products/jeans
 
 
 Step 7: python manage.py createsuperuser  and type your username, email, and password. 
